@@ -1,0 +1,10 @@
+@media only screen and (max-width: 767px) {
+    #TabChatHome{
+        width: 100%; 
+    }
+}
+@media only screen and (max-width: 767px) {
+    #TabChatDetail {
+        display: none;
+    }
+}

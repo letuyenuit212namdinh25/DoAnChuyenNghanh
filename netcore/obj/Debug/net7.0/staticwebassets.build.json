@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "Z1OFb3roNA9MJBW2P0kvEsCiqZZw1MH/viO/EKrbR68=",
+  "Source": "netcore",
+  "BasePath": "_content/netcore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "netcore\\wwwroot",
+      "Source": "netcore",
+      "ContentRoot": "C:\\Users\\Le Tuyen\\Downloads\\DoAnChuyenNghanh-master\\DevOps\\netcore\\wwwroot\\",
+      "BasePath": "_content/netcore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Le Tuyen\\Downloads\\DoAnChuyenNghanh-master\\DevOps\\netcore\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "SourceId": "netcore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Le Tuyen\\Downloads\\DoAnChuyenNghanh-master\\DevOps\\netcore\\wwwroot\\",
+      "BasePath": "_content/netcore",
+      "RelativePath": "js/signalr/dist/browser/signalr.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\signalr\\dist\\browser\\signalr.js"
+    }
+  ]
+}
